@@ -1,0 +1,68 @@
+Thu May  2 02:19:24 CDT 2019
+Fractal v1.8
+cpu_frames: 0
+gpu_frames: 640
+frames: 640
+width: 512
+compute time: 0.1652 s
+Fractal v1.8
+cpu_frames: 64
+gpu_frames: 576
+frames: 640
+width: 512
+compute time: 0.4715 s
+Fractal v1.8
+cpu_frames: 128
+gpu_frames: 512
+frames: 640
+width: 512
+compute time: 0.8814 s
+Fractal v1.8
+cpu_frames: 192
+gpu_frames: 448
+frames: 640
+width: 512
+compute time: 1.6091 s
+Fractal v1.8
+cpu_frames: 256
+gpu_frames: 384
+frames: 640
+width: 512
+compute time: 2.3526 s
+Fractal v1.8
+cpu_frames: 320
+gpu_frames: 320
+frames: 640
+width: 512
+compute time: 3.2494 s
+Fractal v1.8
+cpu_frames: 384
+gpu_frames: 256
+frames: 640
+width: 512
+compute time: 4.3312 s
+Fractal v1.8
+cpu_frames: 448
+gpu_frames: 192
+frames: 640
+width: 512
+compute time: 5.7653 s
+Fractal v1.8
+cpu_frames: 512
+gpu_frames: 128
+frames: 640
+width: 512
+compute time: 7.0931 s
+Fractal v1.8
+cpu_frames: 576
+gpu_frames: 64
+frames: 640
+width: 512
+compute time: 8.2290 s
+Fractal v1.8
+cpu_frames: 640
+gpu_frames: 0
+frames: 640
+width: 512
+compute time: 9.2364 s
+Thu May  2 02:20:38 CDT 2019

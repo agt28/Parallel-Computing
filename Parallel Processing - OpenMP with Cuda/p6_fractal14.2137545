@@ -1,0 +1,307 @@
+Thu May  2 09:00:58 CDT 2019
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 0
+gpu_frames: 640
+frames: 640
+width: 512
+compute time: 0.1518 s
+Fractal v1.8
+cpu_frames: 0
+gpu_frames: 640
+frames: 640
+width: 512
+compute time: 0.1616 s
+Fractal v1.8
+cpu_frames: 0
+gpu_frames: 640
+frames: 640
+width: 512
+compute time: 0.1613 s
+Fractal v1.8
+cpu_frames: 0
+gpu_frames: 640
+frames: 640
+width: 512
+compute time: 0.1921 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 64
+gpu_frames: 576
+frames: 640
+width: 512
+compute time: 0.4601 s
+Fractal v1.8
+cpu_frames: 64
+gpu_frames: 576
+frames: 640
+width: 512
+compute time: 0.4731 s
+Fractal v1.8
+cpu_frames: 64
+gpu_frames: 576
+frames: 640
+width: 512
+compute time: 0.4719 s
+Fractal v1.8
+cpu_frames: 64
+gpu_frames: 576
+frames: 640
+width: 512
+compute time: 0.4738 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 128
+gpu_frames: 512
+frames: 640
+width: 512
+compute time: 0.8564 s
+Fractal v1.8
+cpu_frames: 128
+gpu_frames: 512
+frames: 640
+width: 512
+compute time: 0.8630 s
+Fractal v1.8
+cpu_frames: 128
+gpu_frames: 512
+frames: 640
+width: 512
+compute time: 0.8832 s
+Fractal v1.8
+cpu_frames: 128
+gpu_frames: 512
+frames: 640
+width: 512
+compute time: 0.9012 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 192
+gpu_frames: 448
+frames: 640
+width: 512
+compute time: 1.6011 s
+Fractal v1.8
+cpu_frames: 192
+gpu_frames: 448
+frames: 640
+width: 512
+compute time: 1.6193 s
+Fractal v1.8
+cpu_frames: 192
+gpu_frames: 448
+frames: 640
+width: 512
+compute time: 1.6356 s
+Fractal v1.8
+cpu_frames: 192
+gpu_frames: 448
+frames: 640
+width: 512
+compute time: 1.6455 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 256
+gpu_frames: 384
+frames: 640
+width: 512
+compute time: 2.3532 s
+Fractal v1.8
+cpu_frames: 256
+gpu_frames: 384
+frames: 640
+width: 512
+compute time: 2.3884 s
+Fractal v1.8
+cpu_frames: 256
+gpu_frames: 384
+frames: 640
+width: 512
+compute time: 2.3910 s
+Fractal v1.8
+cpu_frames: 256
+gpu_frames: 384
+frames: 640
+width: 512
+compute time: 2.4013 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 320
+gpu_frames: 320
+frames: 640
+width: 512
+compute time: 3.2699 s
+Fractal v1.8
+cpu_frames: 320
+gpu_frames: 320
+frames: 640
+width: 512
+compute time: 3.3235 s
+Fractal v1.8
+cpu_frames: 320
+gpu_frames: 320
+frames: 640
+width: 512
+compute time: 3.3436 s
+Fractal v1.8
+cpu_frames: 320
+gpu_frames: 320
+frames: 640
+width: 512
+compute time: 3.3799 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 384
+gpu_frames: 256
+frames: 640
+width: 512
+compute time: 4.4792 s
+Fractal v1.8
+cpu_frames: 384
+gpu_frames: 256
+frames: 640
+width: 512
+compute time: 4.4817 s
+Fractal v1.8
+cpu_frames: 384
+gpu_frames: 256
+frames: 640
+width: 512
+compute time: 4.4920 s
+Fractal v1.8
+cpu_frames: 384
+gpu_frames: 256
+frames: 640
+width: 512
+compute time: 4.5828 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 448
+gpu_frames: 192
+frames: 640
+width: 512
+compute time: 5.5970 s
+Fractal v1.8
+cpu_frames: 448
+gpu_frames: 192
+frames: 640
+width: 512
+compute time: 5.6785 s
+Fractal v1.8
+cpu_frames: 448
+gpu_frames: 192
+frames: 640
+width: 512
+compute time: 5.6991 s
+Fractal v1.8
+cpu_frames: 448
+gpu_frames: 192
+frames: 640
+width: 512
+compute time: 5.7540 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 512
+gpu_frames: 128
+frames: 640
+width: 512
+compute time: 7.0375 s
+Fractal v1.8
+cpu_frames: 512
+gpu_frames: 128
+frames: 640
+width: 512
+compute time: 7.0780 s
+Fractal v1.8
+cpu_frames: 512
+gpu_frames: 128
+frames: 640
+width: 512
+compute time: 7.1106 s
+Fractal v1.8
+cpu_frames: 512
+gpu_frames: 128
+frames: 640
+width: 512
+compute time: 7.1188 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 576
+gpu_frames: 64
+frames: 640
+width: 512
+compute time: 8.1467 s
+Fractal v1.8
+cpu_frames: 576
+gpu_frames: 64
+frames: 640
+width: 512
+compute time: 8.1512 s
+Fractal v1.8
+cpu_frames: 576
+gpu_frames: 64
+frames: 640
+width: 512
+compute time: 8.3676 s
+Fractal v1.8
+cpu_frames: 576
+gpu_frames: 64
+frames: 640
+width: 512
+compute time: 8.3921 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137454
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 640
+gpu_frames: 0
+frames: 640
+width: 512
+compute time: 9.2229 s
+Fractal v1.8
+cpu_frames: 640
+gpu_frames: 0
+frames: 640
+width: 512
+compute time: 9.3040 s
+Fractal v1.8
+cpu_frames: 640
+gpu_frames: 0
+frames: 640
+width: 512
+compute time: 9.3406 s
+Fractal v1.8
+cpu_frames: 640
+gpu_frames: 0
+frames: 640
+width: 512
+compute time: 9.4040 s

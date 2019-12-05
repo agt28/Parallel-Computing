@@ -1,0 +1,33 @@
+
+Wed Apr 17 22:47:32 CDT 2019
+N-body v1.1
+bodies: 32768
+time steps: 16
+images: no
+compute time: 0.2145 s
+N-body v1.1
+bodies: 32768
+time steps: 16
+images: no
+compute time: 0.2145 s
+N-body v1.1
+bodies: 32768
+time steps: 16
+images: no
+compute time: 0.2146 s
+N-body v1.1
+bodies: 32768
+time steps: 16
+images: no
+compute time: 0.2146 s
+N-body v1.1
+bodies: 32768
+time steps: 16
+images: no
+compute time: 0.2147 s
+N-body v1.1
+bodies: 32768
+time steps: 16
+images: no
+compute time: 0.2145 s
+Wed Apr 17 22:47:50 CDT 2019

@@ -1,0 +1,50 @@
+Wed Apr 17 20:49:05 CDT 2019
+Collatz v1.1
+range bound: 2000000
+compute time: 0.0070 s
+longest sequence: 557 elements
+Collatz v1.1
+range bound: 2000000
+compute time: 0.0070 s
+longest sequence: 557 elements
+Collatz v1.1
+range bound: 2000000
+compute time: 0.0070 s
+longest sequence: 557 elements
+Collatz v1.1
+range bound: 20000000
+compute time: 0.0762 s
+longest sequence: 705 elements
+Collatz v1.1
+range bound: 20000000
+compute time: 0.0772 s
+longest sequence: 705 elements
+Collatz v1.1
+range bound: 20000000
+compute time: 0.0772 s
+longest sequence: 705 elements
+Collatz v1.1
+range bound: 200000000
+compute time: 0.8482 s
+longest sequence: 954 elements
+Collatz v1.1
+range bound: 200000000
+compute time: 0.8373 s
+longest sequence: 954 elements
+Collatz v1.1
+range bound: 200000000
+compute time: 0.8372 s
+longest sequence: 954 elements
+Collatz v1.1
+range bound: 2000000000
+compute time: 9.2355 s
+longest sequence: 1009 elements
+Collatz v1.1
+range bound: 2000000000
+compute time: 9.2220 s
+longest sequence: 1009 elements
+Collatz v1.1
+range bound: 2000000000
+compute time: 9.2278 s
+longest sequence: 1009 elements
+Wed Apr 17 20:50:08 CDT 2019

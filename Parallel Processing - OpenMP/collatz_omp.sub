@@ -1,0 +1,153 @@
+#!/bin/bash
+#SBATCH -A CS4380_5351_7332 # account name
+#SBATCH -J p4_collatz       # job name
+#SBATCH -o p4_collatz.%j    # name of the output and error file
+#SBATCH -N 1                # total number of nodes requested
+#SBATCH -n 1                # total number of tasks requested
+#SBATCH -p normal           # queue name
+#SBATCH -t 00:05:00         # expected maximum runtime (hh:mm:ss)
+
+date
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED=""
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED="schedule(static, 1)"
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED="schedule(static, 100)"
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED="schedule(dynamic, 1)"
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED="schedule(dynamic, 100)"
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED="schedule(guided, 1)"
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+
+icc -xhost -O3 -fopenmp collatz_omp.cpp -o collatz_omp -DSCHED="schedule(guided, 100)"
+
+./collatz_omp 80000000 1
+./collatz_omp 80000000 4
+./collatz_omp 80000000 8
+./collatz_omp 80000000 12
+./collatz_omp 80000000 16
+./collatz_omp 80000000 20
+./collatz_omp 80000000 24
+./collatz_omp 80000000 28
+./collatz_omp 80000000 32
+./collatz_omp 80000000 36
+./collatz_omp 80000000 40
+./collatz_omp 80000000 44
+./collatz_omp 80000000 48
+./collatz_omp 80000000 52
+./collatz_omp 80000000 56
+./collatz_omp 80000000 60
+./collatz_omp 80000000 64
+
+date

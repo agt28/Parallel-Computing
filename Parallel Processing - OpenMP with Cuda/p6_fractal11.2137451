@@ -1,0 +1,109 @@
+Thu May  2 08:58:42 CDT 2019
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 0
+gpu_frames: 640
+frames: 640
+width: 512
+compute time: 0.1603 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 64
+gpu_frames: 576
+frames: 640
+width: 512
+compute time: 0.4731 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 128
+gpu_frames: 512
+frames: 640
+width: 512
+compute time: 0.8551 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 192
+gpu_frames: 448
+frames: 640
+width: 512
+compute time: 1.6122 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 256
+gpu_frames: 384
+frames: 640
+width: 512
+compute time: 2.3637 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 320
+gpu_frames: 320
+frames: 640
+width: 512
+compute time: 3.3171 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 384
+gpu_frames: 256
+frames: 640
+width: 512
+compute time: 4.4120 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 448
+gpu_frames: 192
+frames: 640
+width: 512
+compute time: 5.7069 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 512
+gpu_frames: 128
+frames: 640
+width: 512
+compute time: 7.0571 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 576
+gpu_frames: 64
+frames: 640
+width: 512
+compute time: 8.1434 s
+
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 2137451
+TACC: Starting parallel tasks...
+Fractal v1.8
+cpu_frames: 640
+gpu_frames: 0
+frames: 640
+width: 512
+compute time: 9.4195 s

@@ -1,0 +1,112 @@
+Thu Apr  4 06:23:54 CDT 2019
+omp1
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 1
+compute time: 34.2227 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 2
+compute time: 19.6927 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 4
+compute time: 10.7756 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 8
+compute time: 5.9724 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 16
+compute time: 3.1654 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 32
+compute time: 1.6525 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 64
+compute time: 1.2683 s
+
+omp2
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 1
+compute time: 34.2854 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 2
+compute time: 18.7002 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 4
+compute time: 10.2325 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 8
+compute time: 5.8848 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 16
+compute time: 3.0880 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 32
+compute time: 1.7465 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 64
+compute time: 2.6549 s
+
+omp3
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 1
+compute time: 34.0223 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 2
+compute time: 19.7544 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 4
+compute time: 11.6620 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 8
+compute time: 7.3937 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 16
+compute time: 4.3819 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 32
+compute time: 3.2597 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 64
+compute time: 5.5226 s
+Thu Apr  4 06:27:54 CDT 2019

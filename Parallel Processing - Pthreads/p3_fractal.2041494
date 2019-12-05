@@ -1,0 +1,37 @@
+Thu Mar 14 02:31:53 CDT 2019
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 1
+compute time: 33.9438 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 2
+compute time: 17.0044 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 4
+compute time: 8.6547 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 8
+compute time: 4.7603 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 16
+compute time: 2.4579 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 32
+compute time: 1.3975 s
+Fractal v1.8
+frames: 128
+width: 1024
+threads: 64
+compute time: 1.1067 s
+Thu Mar 14 02:33:02 CDT 2019
